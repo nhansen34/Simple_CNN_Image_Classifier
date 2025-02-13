@@ -1,4 +1,4 @@
-# Fashion MNIST CNN Classifier
+# Simple Fashion MNIST CNN Classifier
 
 This repository contains a simple Convolutional Neural Network (CNN) built using PyTorch to classify images from the Fashion MNIST dataset. The dataset consists of 70,000 grayscale images of size 28x28 pixels, categorized into 10 different fashion item classes.
 
